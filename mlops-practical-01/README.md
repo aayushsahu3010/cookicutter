@@ -1,7 +1,7 @@
-mlops-practial1
+mlops-practical-01
 ==============================
 
-a repo for practical use of mlops
+a repo for mlops practical
 
 Project Organization
 ------------

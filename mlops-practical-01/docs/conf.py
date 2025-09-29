@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# mlops-practial1 documentation build configuration file, created by
+# mlops-practical-01 documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'mlops-practial1'
+project = u'mlops-practical-01'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mlops=practical1doc'
+htmlhelp_basename = 'mlops-practical-01doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -184,9 +184,9 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
     ('index',
-     'mlops=practical1.tex',
-     u'mlops-practial1 Documentation',
-     u"aayushsahu3010", 'manual'),
+     'mlops-practical-01.tex',
+     u'mlops-practical-01 Documentation',
+     u"aayush sahu", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -215,8 +215,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'mlops=practical1', u'mlops-practial1 Documentation',
-     [u"aayushsahu3010"], 1)
+    ('index', 'mlops-practical-01', u'mlops-practical-01 Documentation',
+     [u"aayush sahu"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'mlops=practical1', u'mlops-practial1 Documentation',
-     u"aayushsahu3010", 'mlops-practial1',
-     'a repo for practical use of mlops', 'Miscellaneous'),
+    ('index', 'mlops-practical-01', u'mlops-practical-01 Documentation',
+     u"aayush sahu", 'mlops-practical-01',
+     'a repo for mlops practical', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

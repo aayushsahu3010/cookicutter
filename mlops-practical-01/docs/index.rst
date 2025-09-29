@@ -1,9 +1,9 @@
-.. mlops-practial1 documentation master file, created by
+.. mlops-practical-01 documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-mlops-practial1 documentation!
+mlops-practical-01 documentation!
 ==============================================
 
 Contents:
